@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "A new Call"
-permalink: /testsite/call
+permalink: /call
 ---
-
 # Call for Papers
 
 This workshop responds to a growing need for broad, boundary-spanning collaborations between ML and non-ML disciplines. To this end, submissions this workshop will seed the development of such a community by bringing experts together around data and mechanistic models describing the infection process of two widespread viruses impacting two different systems of the human body (COVID-19 and Human Papillomavirus). 
