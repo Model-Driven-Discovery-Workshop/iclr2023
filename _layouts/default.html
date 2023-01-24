@@ -2,20 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
+    <meta name="viewport" content="width=device-width">
   </head>
   <body>
-    <div class="content">
-      {% include navigation.html %}
-      {{ content }}
-    </div>
-    <footer>
-      <div class="container">
-        my footer
-      </div>
-    </footer>
+    {% include navigation.html %}
+    {{ content }}
   </body>
 </html>
