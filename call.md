@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "A new Call"
-permalink: /call
+permalink: /testsite/call
 ---
 # Call for Papers
 
