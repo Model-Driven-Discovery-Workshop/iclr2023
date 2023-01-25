@@ -1,7 +1,3 @@
----
-layout: default
-title: AMDD ML
----
 # Accelerating Model Driven Discovery with ML
 ## ICLR’23 Workshop, Day 1 - May 4th 2023
 
