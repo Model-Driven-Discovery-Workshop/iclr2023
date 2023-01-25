@@ -1,11 +1,13 @@
 <nav style="text-align:right;">
-  <a href="/testsite/overview" {% if page.url == "/testsite/pages/overview" %}style="color: red;"{% endif %}>
+  <a href="/testsite/pages/overview" {% if page.url == "/testsite/pages/overview" %}style="color: red;"{% endif %}>
     Home
   </a>
-  <a href="/testsite/call" {% if page.url == "/testsite/pages/call" %}style="color: red;"{% endif %}>
+  |
+  <a href="/testsite/pages/call" {% if page.url == "/testsite/pages/call" %}style="color: red;"{% endif %}>
     Call
   </a>
-  <a href="/testsite/about" {% if page.url == "/testsite/pages/about" %}style="color: red;"{% endif %}>
+  |
+  <a href="/testsite/pages/about" {% if page.url == "/testsite/pages/about" %}style="color: red;"{% endif %}>
     About
   </a>
 </nav>
