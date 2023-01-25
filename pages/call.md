@@ -1,6 +1,6 @@
 ---
 layout: default
-title: a new call
+title: Call
 ---
 
 # Call for Papers
@@ -11,8 +11,7 @@ Valid workshop submissions must be based on results generated with these two mod
 
 Relevant topics for the workshop are completely up to the imagination and interests of the authors. For instance, models and data could be used to understand the drivers of historical disease patterns, to forecast future disease patterns in human populations, or to consider unobserved counterfactual scenarios. Alternatively, results from existing scholarship can be generated from the provided models, and contrasted to highlight or verify any findings. There is no restriction placed on the nature of the research submitted to this workshop using these models.
 
-All workshop submissions are to submitted as a 3-5 page manuscript
-Latex and Word Template in PDF format?
+All workshop submissions are to be 3-5 page manuscripts in PDF format.
 
 All valid submissions will be invited to submit the following two files: a 10 minute video presentation ([.mp4 format](https://en.wikipedia.org/wiki/MP4_file_format)) and captions encoded in [VTT format](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API). These captions can be automatically generated using tools like webex, zoom, and slack. All content submitted should be validated for accuracy as automatic captioning is still in its infancy. 
 
