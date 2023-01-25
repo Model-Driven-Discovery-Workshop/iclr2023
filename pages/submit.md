@@ -1,3 +1,3 @@
-PDFs submitted via easychair (link here)
+PDFs submitted via [easychair](https://easychair.org/conferences/?conf=amddml23)
 
-After deadline and acceptance, the page will be switched to a gallery of submissions
+Submission Deadline: March 1st, 2023
