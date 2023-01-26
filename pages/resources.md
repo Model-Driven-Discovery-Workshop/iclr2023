@@ -15,3 +15,5 @@ Huggingface
 Papers/conferences
 
 Textbooks
+
+{{ page.url }}
