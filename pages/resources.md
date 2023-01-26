@@ -1,3 +1,6 @@
+---
+url: /testsite/pages/resources
+---
 IPython notebooks
 
 Compute
@@ -17,3 +20,5 @@ Papers/conferences
 Textbooks
 
 {{ page.url }}
+
+{{ pages.url }}
