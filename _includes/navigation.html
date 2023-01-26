@@ -2,23 +2,23 @@
   EN/FR
 </nav>
 <nav style="text-align:right;">
-  <a href="testsite/" {% if page.url == "/" %}style="color: red;"{% endif %}>
+  <a href={{site.url}} {% if page.url == "/" %}style="color: red;"{% endif %}>
     Home
   </a>
    | 
-  <a href="pages/call" {% if page.url contains "pages/call" %} style="color: red;"{% endif %}>
+  <a href={{site.url}}"/pages/call" {% if page.url contains "pages/call" %} style="color: red;"{% endif %}>
     Call
   </a>
    | 
-  <a href="pages/resources" {% if page.url contains "pages/resource" %} style="color: red;"{% endif %}>
+  <a href={{site.url}}"/pages/resources" {% if page.url contains "pages/resource" %} style="color: red;"{% endif %}>
     Resources
   </a>
    |
-  <a href="/testsite/pages/submit" {% if page.url == "/testsite/pages/submit" %}style="color: red;"{% endif %}>
+  <a href="/testsite/pages/submit" {% if page.url contains "pages/submit" %}style="color: red;"{% endif %}>
     Submission
   </a>
    |
-  <a href="/testsite/pages/agenda" {% if page.url == "/testsite/pages/agenda" %}style="color: red;"{% endif %}>
+  <a href="/testsite/pages/agenda" {% if page.url contains "pagespages/agenda" %}style="color: red;"{% endif %}>
     Agenda
   </a>
 </nav>
