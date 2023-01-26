@@ -19,6 +19,6 @@ Papers/conferences
 
 Textbooks
 
-{{ page.url }}
+0: {{ page.url }}
 
-{{ pages.url }}
+1: {{ pages.url }}
