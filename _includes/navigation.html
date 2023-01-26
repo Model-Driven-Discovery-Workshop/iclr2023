@@ -2,11 +2,11 @@
   EN/FR
 </nav>
 <nav style="text-align:right;">
-  <a href={{page.path}} {% if page.url == "/" %}style="color: red;"{% endif %}>
+  <a href={{site.url}} {% if page.url == "/" %}style="color: red;"{% endif %}>
     Home
   </a>
    | 
-  <a href="{{page.path}}/pages/call" {% if page.url contains "pages/call" %} style="color: red;"{% endif %}>
+  <a href="{{site.url}}/pages/call" {% if page.url contains "pages/call" %} style="color: red;"{% endif %}>
     Call
   </a>
    | 
@@ -14,11 +14,11 @@
     Resources
   </a>
    |
-  <a href="/testsite/pages/submit" {% if page.url contains "pages/submit" %}style="color: red;"{% endif %}>
+  <a href="{{site.url}}/pages/submit" {% if page.url contains "pages/submit" %}style="color: red;"{% endif %}>
     Submission
   </a>
    |
-  <a href="/testsite/pages/agenda" {% if page.url contains "pages/agenda" %}style="color: red;"{% endif %}>
+  <a href="{{site.url}}/pages/agenda" {% if page.url contains "pages/agenda" %}style="color: red;"{% endif %}>
     Agenda
   </a>
 </nav>
