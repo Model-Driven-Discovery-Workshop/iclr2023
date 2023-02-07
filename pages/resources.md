@@ -1,5 +1,5 @@
 ---
-url: /testsite/pages/resources
+url: /iclr2023/pages/resources
 ---
 IPython notebooks
 
